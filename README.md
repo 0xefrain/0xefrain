@@ -1,12 +1,12 @@
 # 👋🏻 Hello, my name is Efrain
 
-I am a Blockchain  developer with experience building Dapps and Web3 projects. I specialize in solidity and have experience working  Dapp frontend  with ReactJS. I also have experience working  with Hardhat,EtherJs and Web3Js. Im learning Blockchain building real Dapp projects.
+I am a Blockchain  developer with experience building Dapps and Web3 projects. I am former to specialize in solidity and have  basic experience working  Dapp frontend  with ReactJS. I also have experience working  with Hardhat,EtherJs and Web3Js. Im learning Blockchain development building real Dapp projects.
 
 🌱 I’m currently learning Ethereum Blockchain and Solidity
 
-💬 Ask me any about Ethereum,Solidity or Web3 protocols. I am interested in helping and sharing.
+💬 Ask me any about Ethereum,Solidity or Web3 protocols. I am interested in learning and sharing.
 
-👯 I’m looking to collaborate on any Web3 Dapp projects.
+👯 I’m looking to collaborate on any Ethereum or layer2 projects.
 
 
 # 🎯 Skills:
