@@ -20,7 +20,7 @@ I am a Blockchain  developer with experience building Dapps and Web3 projects. I
 
 ## 🌎 Find me around the web:
 - Talking and sharing in <a href="https://twitter.com/0xefrain">Twitter</a>
-- Learn more bout me  <a href="https://www.linkedin.com/in/efraincuello/">Linkedin</a>
+- Learn more about me  <a href="https://www.linkedin.com/in/efraincuello/">Linkedin</a>
 
 
 ## 📈 Some of my stats are:
