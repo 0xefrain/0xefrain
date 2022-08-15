@@ -4,6 +4,7 @@ Solidity developer with experience building Dapps and Web3 projects
 
 - Solidity
 - Typescript
+- Ethereum
 - Node
 - Hardhat
 - React
