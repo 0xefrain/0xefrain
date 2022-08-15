@@ -1,4 +1,4 @@
-# Hello 🐺 ,
+# Hello 🐺 
 
 Solidity developer with experience building Web3 projects
 
