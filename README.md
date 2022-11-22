@@ -5,7 +5,6 @@ Solidity developer
 - Solidity
 - Javascript
 - NodeJS
-- Ethereum
 - Hardhat
 
 
