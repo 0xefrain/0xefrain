@@ -5,7 +5,6 @@ Solidity developer with experience building Web3 projects
 - Solidity
 - Javascript
 - NodeJS
-- ReactJS
 - Ethereum
 - Hardhat
 
