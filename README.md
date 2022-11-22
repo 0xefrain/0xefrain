@@ -1,6 +1,6 @@
 # Hello 🐺 
 
-Solidity developer with experience building Web3 projects
+Solidity developer
 
 - Solidity
 - Javascript
