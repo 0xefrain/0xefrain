@@ -1,6 +1,6 @@
 # Hello 🐺 
 
-Security Researcher | Blockchain
+Security Researcher | Blockchain Dev
 
 - Solidity
 - Javascript
