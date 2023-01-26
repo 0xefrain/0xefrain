@@ -1,11 +1,12 @@
 # Hello 🐺 
 
-Security Researcher | Blockchain Dev
+Security Researcher | Blockchain 
 
 - Solidity
 - Javascript
 - NodeJS
 - Hardhat
+- Foundry
 
 
 
