@@ -7,6 +7,7 @@ Security Researcher | Blockchain
 - NodeJS
 - Hardhat
 - Foundry
+- EVM
 
 
 
