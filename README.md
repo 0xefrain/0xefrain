@@ -1,13 +1,21 @@
 # Hello 🐺 
 
-Security Researcher | Blockchain 
+ Blockchain Developer | Security 
 
 - Solidity
 - Javascript
-- NodeJS
+- Typescrypt
+- Cairo
+
+- React
+- NextJs
+- NodejS
 - Hardhat
 - Foundry
+
 - EVM
+- Layer2
+- IPFS
 
 
 
